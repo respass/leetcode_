@@ -14,7 +14,11 @@ LeetCode
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/EditDistance.java)|Hard|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RegularExpressionMatching.java)|Hard|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Container WithMostWater.java)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/GenerateParentheses.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestValidParentheses.java)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrappingRainWater.java)|Hard|
 
 
 
