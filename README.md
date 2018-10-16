@@ -19,6 +19,8 @@ LeetCode
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/GenerateParentheses.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestValidParentheses.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrappingRainWater.java)|Hard|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreePostorderTraversal.java)|Hard|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray.java)|Hard|
 
 
 
