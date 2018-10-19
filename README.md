@@ -23,6 +23,8 @@ LeetCode
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray.java)|Hard|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray2.java)|Hard|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
+
 
 
 
