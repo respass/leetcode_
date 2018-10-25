@@ -12,6 +12,7 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximumSubarray.java)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/EditDistance.java)|Hard|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
+|120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreePostorderTraversal.java)|Hard|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximumProductSubarray.java)|Medium|
@@ -23,6 +24,8 @@ LeetCode
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestIncreasingSubsequence.java)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ConstructStringfromBinaryTree.java)|Easy|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SumOfSquareNumbers.java)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BuddyStrings.java)|Easy|
