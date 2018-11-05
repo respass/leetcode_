@@ -28,6 +28,8 @@ LeetCode
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SumOfSquareNumbers.java)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DominoandTrominoTiling.java)|Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BuddyStrings.java)|Easy|
 
 
