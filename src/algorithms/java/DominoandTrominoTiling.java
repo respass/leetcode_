@@ -15,7 +15,7 @@ public class DominoandTrominoTiling {
             dp[i][1][0] = (dp[i-2][0][0] + dp[i-1][1][0]) % kMod;
         }
         return (int)dp[N][0][0];
-        
+
     }
 
 }
