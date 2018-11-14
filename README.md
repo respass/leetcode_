@@ -16,6 +16,7 @@ LeetCode
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreePostorderTraversal.java)|Hard|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LRUCache.java)|Hard|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximumProductSubarray.java)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray.java)|Hard|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray2.java)|Hard|
@@ -27,6 +28,7 @@ LeetCode
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CreateMaximumNumber.java)|Hard|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SubarraySumEqualsK.java)|Medium|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ConstructStringfromBinaryTree.java)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SumOfSquareNumbers.java)|Easy|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWaysII.java)|Hard|
@@ -35,6 +37,7 @@ LeetCode
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindPivotIndex.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DominoandTrominoTiling.java)|Medium|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ChampagneTower.java)|Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BuddyStrings.java)|Easy|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BitwiseORsofSubarrays.java)|Medium|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FlipStringtoMonotoneIncreasing.java)|Medium|
