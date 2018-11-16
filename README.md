@@ -26,10 +26,13 @@ LeetCode
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/NumberOfISlands.java)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseSchedule.java)|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DifferentWaysToAddParentheses)|Medium|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FirstBadVersion.java)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindtheDuplicateNumber.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestIncreasingSubsequence.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RangeSumQueryImmutable.java)|Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CreateMaximumNumber.java)|Hard|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestElementinaSortedMatrix.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PartitionEqualSubsetSum.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SubarraySumEqualsK.java)|Medium|
@@ -38,6 +41,7 @@ LeetCode
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWaysII.java)|Hard|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
+|668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestNumberinMultiplicationTable.java)|Hard|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindPivotIndex.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DominoandTrominoTiling.java)|Medium|
