@@ -10,6 +10,7 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MedianofTwoSortedArrays.java)|Hard|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RegularExpressionMatching.java)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ContainerWithMostWater.java)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LetterCombinationsofaPhoneNumber.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/GenerateParentheses.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestValidParentheses.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrappingRainWater.java)|Hard|
@@ -29,6 +30,7 @@ LeetCode
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DungeonGame.java)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/NumberOfISlands.java)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseSchedule.java)|Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseScheduleII.java)|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DifferentWaysToAddParentheses)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FirstBadVersion.java)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindtheDuplicateNumber.java)|Medium|
@@ -38,8 +40,10 @@ LeetCode
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestElementinaSortedMatrix.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PartitionEqualSubsetSum.java)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/AssignCookies.java)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleElementinaSortedArray.java)|Medium|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FriendCircles.java)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SubarraySumEqualsK.java)|Medium|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ConstructStringfromBinaryTree.java)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SumOfSquareNumbers.java)|Easy|

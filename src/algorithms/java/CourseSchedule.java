@@ -9,93 +9,79 @@ import java.util.List;
  */
 public class CourseSchedule {
 
-//    BFS
-//    public boolean canFinish(int numCourses, int[][] prerequisites) {
-//        int[][] matrix = new int[numCourses][numCourses]; // i -> j
-//        int[] indegree = new int[numCourses];
-//
-//        for (int i=0; i<prerequisites.length; i++) {
-//            int ready = prerequisites[i][0];
-//            int pre = prerequisites[i][1];
-//            if (matrix[pre][ready] == 0)
-//                indegree[ready]++; //duplicate case
-//            matrix[pre][ready] = 1;
-//        }
-//
-//        int count = 0;
-//        Queue<Integer> queue = new LinkedList();
-//        for (int i=0; i<indegree.length; i++) {
-//            if (indegree[i] == 0) queue.offer(i);
-//        }
-//        while (!queue.isEmpty()) {
-//            int course = queue.poll();
-//            count++;
-//            for (int i=0; i<numCourses; i++) {
-//                if (matrix[course][i] != 0) {
-//                    if (--indegree[i] == 0)
-//                        queue.offer(i);
-//                }
-//            }
-//        }
-//        return count == numCourses;
-//    }
+    //Topological Sort
+    //O(n)
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
 
-    public boolean canFinish(int n, int[][] prerequisites) {
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < n; i++) graph.add(new ArrayList<Integer>());
-        for (int[] v : prerequisites) {
-            graph.get(v[1]).add(v[0]);
+        for (int i = 0; i < numCourses; ++i)
+            graph.add(new ArrayList<>());
+
+        for (int i = 0; i < prerequisites.length; ++i) {
+            int course = prerequisites[i][0];
+            int prerequisite = prerequisites[i][1];
+            graph.get(course).add(prerequisite);
         }
-        int[] vis = new int[n];
-        for (int i = 0; i < n; i++) {
-            if (vis[i] == 0 && !DFS(graph, vis, i)) return false;
-        }
+
+        int[] visited = new int[numCourses];
+        for (int i = 0; i < numCourses; ++i)
+            if (dfs(i, graph, visited)) return false;
+
         return true;
     }
 
-    private boolean DFS(List<List<Integer>> graph, int[] vis, int node) {
-        vis[node] = 1;
-        for (int next : graph.get(node)) {
-            if (vis[next] == 1) return false;
-            else if (vis[next] == 0 && !DFS(graph, vis, next)) return false;
-        }
-        vis[node] = 2;
-        return true;
+    private boolean dfs(int curr, ArrayList<ArrayList<Integer>> graph, int[] visited) {
+        if (visited[curr] == 1) return true;
+        if (visited[curr] == 2) return false;
+
+        //visiting
+        visited[curr] = 1;
+
+        for (int next : graph.get(curr))
+            if (dfs(next, graph, visited)) return true;
+
+        //visited
+        visited[curr] = 2;
+        return false;
     }
+
+//    dfs O(n * n)
 //    public boolean canFinish(int numCourses, int[][] prerequisites) {
+//        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
 //
-//        ArrayList[] graph = new ArrayList[numCourses];
-//        for (int i = 0; i < numCourses; i++) {
-//            graph[i] = new ArrayList();
+//        for (int i = 0; i < numCourses; ++i)
+//            graph.add(new ArrayList<Integer>());
+//
+//        for (int i = 0; i < prerequisites.length; ++i) {
+//            int course = prerequisites[i][1];
+//            int prerequisite = prerequisites[i][0];
+//            graph.get(course).add(prerequisite);
 //        }
 //
-//        boolean[] visited = new boolean[numCourses];
-//        for (int i = 0; i < prerequisites.length; i++) {
-//            graph[prerequisites[i][1]].add(prerequisites[i][0]);
-//        }
 //
-//        for (int i = 0; i < numCourses; i++) {
-//            if (!dfs(graph, visited, i)) {
+//        for(int i = 0; i < numCourses; i++) {
+//            boolean[] visited = new boolean[numCourses];
+//            if(dfs(i, i, visited, graph))
 //                return false;
-//            }
 //        }
+//
 //        return true;
 //    }
 //
-//
-//    boolean dfs(ArrayList[] graph, boolean[] visited, int course) {
-//        if (visited[course])
+//    private boolean dfs(int start, int cur, boolean[] visited, ArrayList<ArrayList<Integer>> graph) {
+//        if(cur == start && visited[start])
+//            return true;
+//        if(graph.get(cur).size() == 0)
 //            return false;
-//        else
-//            visited[course] = true;
-//
-//
-//        for (int i = 0; i < graph[course].size(); i++) {
-//            if (!dfs(graph, visited, (int) graph[course].get(i)))
-//                return false;
+//        for(int next : graph.get(cur)) {
+//            if(visited[next])
+//                continue;
+//            visited[next] = true;
+//            if(dfs(start, next, visited, graph))
+//                return true;
 //        }
-//        visited[course] = false;
-//        return true;
-//
+//        return false;
 //    }
+
+
 }
