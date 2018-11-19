@@ -17,6 +17,7 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximumSubarray.java)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/JumpGame.java)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/EditDistance.java)|Hard|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Searcha2DMatrix.java)|Medium|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
@@ -39,7 +40,9 @@ LeetCode
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CreateMaximumNumber.java)|Hard|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestElementinaSortedMatrix.java)|Medium|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsSubsequence.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PartitionEqualSubsetSum.java)|Medium|
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/NonoverlappingIntervals.java)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/AssignCookies.java)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TargetSum.java)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleElementinaSortedArray.java)|Medium|
