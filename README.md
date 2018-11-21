@@ -10,14 +10,20 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MedianofTwoSortedArrays.java)|Hard|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RegularExpressionMatching.java)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ContainerWithMostWater.java)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RomantoIntegerjava)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LetterCombinationsofaPhoneNumber.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/GenerateParentheses.java)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SubstringwithConcatenationofAllWords.java)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestValidParentheses.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrappingRainWater.java)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MultiplyStrings.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximumSubarray.java)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/JumpGame.java)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/EditDistance.java)|Hard|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SetMatrixZeroes.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Searcha2DMatrix.java)|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinimumWindowSubstring.java)|Hard|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SearchinRotatedSortedArrayII.java)|Medium|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
