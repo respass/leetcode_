@@ -26,6 +26,8 @@ LeetCode
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SearchinRotatedSortedArrayII.java)|Medium|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreeInorderTraversal.java)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FlattenBinaryTreetoLinkedList.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangle.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
