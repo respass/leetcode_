@@ -1,4 +1,4 @@
-package database.tree;
+package datastruct.tree;
 
 import algorithms.java.basic.TreeNode;
 

@@ -1,6 +1,4 @@
-package database.brinarySearch;
-
-import java.util.List;
+package datastruct.brinarySearch;
 
 /**
  * @Author: respass

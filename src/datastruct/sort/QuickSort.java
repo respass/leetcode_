@@ -1,4 +1,4 @@
-package database.sort;
+package datastruct.sort;
 
 /**
  * @Author: respass

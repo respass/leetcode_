@@ -1,4 +1,4 @@
-package database.unionFind;
+package datastruct.unionFind;
 
 /**
  * @Author: respass
