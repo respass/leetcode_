@@ -24,12 +24,14 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Searcha2DMatrix.java)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinimumWindowSubstring.java)|Hard|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SearchinRotatedSortedArrayII.java)|Medium|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximalRectangle.java)|Hard|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreeInorderTraversal.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FlattenBinaryTreetoLinkedList.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangle.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleNumberII.java)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreakII.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreePostorderTraversal.java)|Hard|
@@ -48,6 +50,7 @@ LeetCode
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestIncreasingSubsequence.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RangeSumQueryImmutable.java)|Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CreateMaximumNumber.java)|Hard|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FlattenNestedListIterator.java)|Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestElementinaSortedMatrix.java)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsSubsequence.java)|Medium|
