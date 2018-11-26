@@ -24,6 +24,7 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Searcha2DMatrix.java)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinimumWindowSubstring.java)|Hard|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SearchinRotatedSortedArrayII.java)|Medium|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LargestRectangleinHistogram.java)|Hard|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximalRectangle.java)|Hard|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ScrambleString.java)|Hard|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
