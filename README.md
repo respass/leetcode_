@@ -30,6 +30,8 @@ LeetCode
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWays.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreeInorderTraversal.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FlattenBinaryTreetoLinkedList.java)|Medium|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DistinctSubsequences.java)|Hard|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PopulatingNextRightPointersinEachNode.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangle.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleNumberII.java)|Medium|
