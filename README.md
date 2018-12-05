@@ -34,6 +34,8 @@ LeetCode
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PopulatingNextRightPointersinEachNode.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangle.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordLadder.java)|Medium|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SurroundedRegions.java)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleNumberII.java)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreakII.java)|Hard|
