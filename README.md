@@ -33,6 +33,7 @@ LeetCode
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DistinctSubsequences.java)|Hard|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PopulatingNextRightPointersinEachNode.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangle.java)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PascalsTriangleII.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordLadder.java)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SurroundedRegions.java)|Medium|
@@ -52,6 +53,7 @@ LeetCode
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DifferentWaysToAddParentheses)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FirstBadVersion.java)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindtheDuplicateNumber.java)|Medium|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SerializeandDeserializeBinaryTree.java)|Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/LongestIncreasingSubsequence.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RangeSumQueryImmutable.java)|Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CreateMaximumNumber.java)|Hard|
