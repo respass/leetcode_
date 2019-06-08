@@ -38,7 +38,9 @@ LeetCode
 |120|[Triangle](https://leetcode.com/problems/triangle/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/Triangle.java)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordLadder.java)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SurroundedRegions.java)|Medium|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CloneGraph.java)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SingleNumberII.java)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CopyListwithRandomPointer.java)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreak.java)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WordBreakII.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BinaryTreePostorderTraversal.java)|Hard|
@@ -81,9 +83,11 @@ LeetCode
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestNumberinMultiplicationTable.java)|Hard|
+|675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CutOffTreesforGolfEvent.java)|Hard|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindPivotIndex.java)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindSmallestLetterGreaterThanTarget.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SwiminRisingWater.java)|Hard|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DominoandTrominoTiling.java)|Medium|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ChampagneTower.java)|Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BuddyStrings.java)|Easy|
