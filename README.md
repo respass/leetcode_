@@ -70,6 +70,7 @@ LeetCode
 |376|[Wiggle Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/WiggleSubsequence.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestElementinaSortedMatrix.java)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsSubsequence.java)|Medium|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/EvaluateDivision.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PartitionEqualSubsetSum.java)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/NonoverlappingIntervals.java)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/AssignCookies.java)|Easy|
@@ -84,6 +85,7 @@ LeetCode
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestNumberinMultiplicationTable.java)|Hard|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CutOffTreesforGolfEvent.java)|Hard|
+|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RedundantConnection.java)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindPivotIndex.java)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindSmallestLetterGreaterThanTarget.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
