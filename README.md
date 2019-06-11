@@ -53,6 +53,8 @@ LeetCode
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindMinimuminRotatedSortedArray2.java)|Hard|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DungeonGame.java)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/NumberOfISlands.java)|Medium|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CountPrimes.java)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsomorphicStrings.java)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseSchedule.java)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseScheduleII.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximalSquare.java)|Medium|
@@ -90,6 +92,7 @@ LeetCode
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindSmallestLetterGreaterThanTarget.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MinCostClimbingStairs.java)|Easy|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SwiminRisingWater.java)|Hard|
+|785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsGraphBipartite.java)|Medium|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DominoandTrominoTiling.java)|Medium|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ChampagneTower.java)|Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/BuddyStrings.java)|Easy|
