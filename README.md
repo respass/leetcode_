@@ -56,6 +56,7 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CountPrimes.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/IsomorphicStrings.java)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseSchedule.java)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ImplementTrie.java)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CourseScheduleII.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MaximalSquare.java)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/PalindromeLinkedList.java)|Easy|
@@ -83,10 +84,12 @@ LeetCode
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ConstructStringfromBinaryTree.java)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SumOfSquareNumbers.java)|Easy|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/DecodeWaysII.java)|Hard|
+|648|[Replace Words](https://leetcode.com/problems/replace-words/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/ReplaceWords.java)|Medium|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/TrimaBinarySearchTree.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/SecondMinimumNodeInaBinaryTree.java)|Easy|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/KthSmallestNumberinMultiplicationTable.java)|Hard|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/CutOffTreesforGolfEvent.java)|Hard|
+|676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/MagicDictionary.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) |[Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/RedundantConnection.java)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindPivotIndex.java)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Java](https://github.com/respass/leetcode_/blob/master/src/algorithms/java/FindSmallestLetterGreaterThanTarget.java)|Easy|
